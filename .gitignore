@@ -3,3 +3,5 @@
 bin/
 lib/
 .dist/
+.import
+.import-bak
